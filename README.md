@@ -6,14 +6,60 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=swift,apple,xcode,supabase,ts,git,github,docker,figma&perline=9" alt="Swift, Apple, Xcode, Supabase, TypeScript, Git, GitHub, Docker, and Figma" />
-
-<br/><br/>
-
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat&logo=swift&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.swift.org/">
+        <img src="https://skillicons.dev/icons?i=swift" width="42" alt="Swift" /><br/>
+        <sub><b>Swift</b></sub>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.apple.com/xcode/swiftui/">
+        <img src="https://skillicons.dev/icons?i=swift" width="42" alt="SwiftUI" /><br/>
+        <sub><b>SwiftUI</b></sub>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.apple.com/xcode/">
+        <img src="https://skillicons.dev/icons?i=xcode" width="42" alt="Xcode" /><br/>
+        <sub><b>Xcode</b></sub>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://supabase.com/">
+        <img src="https://skillicons.dev/icons?i=supabase" width="42" alt="Supabase" /><br/>
+        <sub><b>Supabase</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://git-scm.com/">
+        <img src="https://skillicons.dev/icons?i=git" width="42" alt="Git" /><br/>
+        <sub><b>Git</b></sub>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/">
+        <img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub" /><br/>
+        <sub><b>GitHub</b></sub>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.docker.com/">
+        <img src="https://skillicons.dev/icons?i=docker" width="42" alt="Docker" /><br/>
+        <sub><b>Docker</b></sub>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.figma.com/">
+        <img src="https://skillicons.dev/icons?i=figma" width="42" alt="Figma" /><br/>
+        <sub><b>Figma</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
