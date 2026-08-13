@@ -86,4 +86,14 @@
 current focus: iOS apps, Supabase, analytics, App Store readiness, GitHub workflow
 ```
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HermesHerasme/HermesHerasme/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HermesHerasme/HermesHerasme/output/github-snake.svg" />
+  <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/HermesHerasme/HermesHerasme/output/github-snake.svg" />
+</picture>
+
+</div>
+
 I like turning rough ideas into apps that feel polished enough to use.
