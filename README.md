@@ -1,56 +1,39 @@
-<div align="center">
-
-<img src="./assets/ios-mockups.svg" width="760" alt="Minimal iOS app mockups" />
-
-# Hermes Herasme
-
-**Swift-first iOS Developer** building clean, focused mobile experiences.
-
-<br/>
-
-<table>
-  <tr>
-    <td align="center" width="104">
-      <a href="https://www.swift.org/">
-        <img src="https://skillicons.dev/icons?i=swift" width="42" alt="Swift" /><br/>
-        <sub><b>Swift</b></sub>
-      </a>
-    </td>
-    <td align="center" width="104">
-      <a href="https://developer.apple.com/xcode/swiftui/">
-        <img src="./assets/swiftui-mark.svg" width="42" alt="SwiftUI" /><br/>
-        <sub><b>SwiftUI</b></sub>
-      </a>
-    </td>
-    <td align="center" width="104">
-      <a href="https://developer.apple.com/xcode/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="42" alt="Xcode" /><br/>
-        <sub><b>Xcode</b></sub>
-      </a>
-    </td>
-    <td align="center" width="104">
-      <a href="https://supabase.com/">
-        <img src="https://skillicons.dev/icons?i=supabase" width="42" alt="Supabase" /><br/>
-        <sub><b>Supabase</b></sub>
-      </a>
-    </td>
-    <td align="center" width="104">
-      <a href="https://www.figma.com/">
-        <img src="https://skillicons.dev/icons?i=figma" width="42" alt="Figma" /><br/>
-        <sub><b>Figma</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=HermesHerasme.HermesHerasme&"  />
 </div>
 
----
+###
 
-I care about calm interfaces, readable code, and products that feel simple without feeling unfinished.
+<h1 data-importer="text" align="center">Hermes Herasme | IOS Developer</h1>
 
-```txt
-current focus: SwiftUI apps, iOS architecture, Supabase, App Store readiness
-```
+###
 
-<sub>Building slowly, polishing carefully.</sub>
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="60" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/xcode/147EFB" height="60" alt="xcode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="60" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h6 data-importer="text" align="center">swift | Xcode | Supabase | Figma | git & github</h6>
+
+###
+
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/hermes-herasme-126b8432b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</div>
+
+###
