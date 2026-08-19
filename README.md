@@ -16,13 +16,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <h6 data-importer="text" align="center">swift | Xcode | Supabase | Figma | git & github</h6>
 </div>
 
 ###
 
 <br clear="both">
 
-<h6 data-importer="text" align="center">swift | Xcode | Supabase | Figma | git & github</h6>
 
 ###
 
