@@ -2,7 +2,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">Hermes Herasme | IOS Developer</h1>
+<h1 data-importer="text" align="center">IOS Developer</h1>
 
 ###
 
